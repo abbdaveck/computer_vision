@@ -1,3 +1,2 @@
-# computer_vision
+# Big bruh
 #### David Eckemarks computer vision Github
-#Big bruh
