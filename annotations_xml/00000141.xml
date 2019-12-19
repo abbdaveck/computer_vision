@@ -1,0 +1,1 @@
+<annotations><filename>00000141.JPEG</filename><folder>images</folder><size><width>368</width><height>286</height><depth>3</depth></size><object><name>bandyboll</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>73.0</xmin><ymin>191.0</ymin><xmax>142.0</xmax><ymax>257.0</ymax></bndbox></object></annotations>
